@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Adam Čejpa
+- 🌱 **I’m currently learning** React, next.js
+- 💞️ **I’m looking to collaborate on any kind of projects**
+- ⚡ **Fun fact:** I worked for two companies without any programming experience and nobody found out (ai saved me)
+- **👯 Open to collaborations:** Love working on all kinds of projects, especially those that challenge me to learn and grow.
+- You can contact me at my email: **adam@cejpa.com**
